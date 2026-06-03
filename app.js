@@ -7,7 +7,7 @@ let newGameBtn = document.querySelector("#new-btn"); // Changed to querySelector
 let msgContainer = document.querySelector(".msg-container"); // Changed to querySelector
 let msg = document.querySelector("#msg");
 
-let turnO = true; // Player X and Player O...................................
+let turnO = true; // Player X and Player O.............................................
 
 const winPatterns = [
   [0, 1, 2],
