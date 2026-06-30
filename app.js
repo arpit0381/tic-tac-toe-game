@@ -80,3 +80,4 @@ const showWinner = (winner) => {
 
 newGameBtn.addEventListener("click", resetGame); // Fixed event listener
 resetBtn.addEventListener("click", resetGame); // Fixed event listener
+//.........
